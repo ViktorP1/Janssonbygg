@@ -13,7 +13,7 @@ const Footer = () => {
             <div className="footer-icons-container">
                 <p>Skicka e-post : <a href="mailto:viktor1pavlov2@gmail.com">ove1jbr@gmail.com</a></p>
             </div>
-            <div class="footer-icons-container">
+            <div className="footer-icons-container">
                 <p>Telefon : <a href="tel:+4670-745 28 29">070-745 28 29</a></p>
             </div>
         </div>
