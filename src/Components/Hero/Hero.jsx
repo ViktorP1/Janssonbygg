@@ -1,6 +1,5 @@
 import React from 'react'
 import './Hero.css'
-import arrow_icon from '../Assets/arrow.png'
 import logo_icon from '../Assets/LoggaJBR.png'
 import { Link } from 'react-router-dom';
 
@@ -20,11 +19,12 @@ const Hero = () => {
                 Kontakta oss idag för att diskutera ditt nästa projekt och se hur vi kan hjälpa dig att nå bästa möjliga resultat. 
                 </p>
             </div>
-            <div className="hero-offert-btn">
+
             <Link style={{ textDecoration: 'none'}} to='/offert'>
-                <div>Kontakta oss!</div>
-                </Link>
+            <div className="hero-offert-btn">
+            <div>Kontakta oss!</div>
             </div>
+            </Link>
         </div>
     </div>
   )

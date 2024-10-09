@@ -23,6 +23,7 @@
     font-weight: 500;
 }
 
+
 .hero-offert-btn {
     display: flex;
     justify-content: center;
@@ -61,7 +62,8 @@
     }
 
     .hero-left h2 {
-        font-size: 22px;
+        font-size: 32px;
+
     }
 
     .hero-left p {
