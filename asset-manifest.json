@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Janssonbygg/static/css/main.c4439364.css",
-    "main.js": "/Janssonbygg/static/js/main.19a77e34.js",
+    "main.css": "/Janssonbygg/static/css/main.5a639c67.css",
+    "main.js": "/Janssonbygg/static/js/main.c8fb1b14.js",
     "static/js/453.8ab44547.chunk.js": "/Janssonbygg/static/js/453.8ab44547.chunk.js",
     "static/media/JBRlogo2.png": "/Janssonbygg/static/media/JBRlogo2.37eda90041e71e32838b.png",
     "static/media/LoggaJBR.png": "/Janssonbygg/static/media/LoggaJBR.e6f25407a4954f8afbfb.png",
@@ -10,15 +10,13 @@
     "static/media/fjarrvarme.png": "/Janssonbygg/static/media/fjarrvarme.ce553091186372cb47f5.png",
     "static/media/badrum.png": "/Janssonbygg/static/media/badrum.edafa2c5f4b1742bcb9f.png",
     "static/media/nav_dropdown.png": "/Janssonbygg/static/media/nav_dropdown.be694910ea01430d1764.png",
-    "static/media/upload_area.svg": "/Janssonbygg/static/media/upload_area.d8fb9fd686a4af4794bdf3f1b815a66b.svg",
     "index.html": "/Janssonbygg/index.html",
-    "static/media/Product_list_icon.svg": "/Janssonbygg/static/media/Product_list_icon.13f69e073cb2a92f9c09abb3c4ed37c9.svg",
-    "main.c4439364.css.map": "/Janssonbygg/static/css/main.c4439364.css.map",
-    "main.19a77e34.js.map": "/Janssonbygg/static/js/main.19a77e34.js.map",
+    "main.5a639c67.css.map": "/Janssonbygg/static/css/main.5a639c67.css.map",
+    "main.c8fb1b14.js.map": "/Janssonbygg/static/js/main.c8fb1b14.js.map",
     "453.8ab44547.chunk.js.map": "/Janssonbygg/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4439364.css",
-    "static/js/main.19a77e34.js"
+    "static/css/main.5a639c67.css",
+    "static/js/main.c8fb1b14.js"
   ]
 }
