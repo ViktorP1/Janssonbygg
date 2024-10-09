@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import './Referenser.css'
 import data_product from '../Assets/new_collections'
 import Item from '../Item/Item'

@@ -1,4 +1,4 @@
-import React, { useRef, useState, useEffect } from 'react'
+import React, { useRef, useState } from 'react'
 import './Navbar.css'
 /*import logo from '../Assets/logo1.png'    Logga till JBR*/ 
 import { Link } from 'react-router-dom';

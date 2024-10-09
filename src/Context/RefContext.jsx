@@ -1,4 +1,4 @@
-import React, { createContext, useState } from "react";
+import React, { createContext } from "react";
 import all_product from "../Components/Assets/new_collections";
 
 export const RefContext = createContext(null);

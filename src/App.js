@@ -5,11 +5,8 @@ import Start from './Pages/Start';
 import About from './Pages/About';
 import Product from './Pages/Product';
 import Offert from './Pages/Offert';
-import LoginSignup from './Pages/LoginSignup';
 import Footer from './Components/Footer/Footer';
 import ProductCategory from './Pages/ProductCategory';
-import Admin from 'Pages/Admin';
-import AddReferens from 'Components/AddReferens/AddReferens';
 
 function App() {
   return (

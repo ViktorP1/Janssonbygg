@@ -1,7 +1,6 @@
 import React, { useContext } from 'react'
 import { RefContext } from '../Context/RefContext'
 import { useParams } from 'react-router-dom';
-import Breadcrum from '../Components/Breadcrums/Breadcrum';
 import ProductDisplay from '../Components/ProductDisplay/ProductDisplay';
 
 const Product = () => {
