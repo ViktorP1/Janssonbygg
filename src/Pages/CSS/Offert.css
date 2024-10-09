@@ -1,0 +1,93 @@
+.offert{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(180deg, rgba(141, 252, 124, 0.356), rgb(255, 255, 255) 60%);
+    padding-top: 100px;
+}
+.offert-container{
+    width: 580px;
+    height: 600px;
+    background: white;
+    margin: auto;
+    padding: 40px 60px;
+}
+.offert-container h1{
+    margin: 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.offert-fields{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 30px;
+}
+.offert-fields input{
+    height: 52px;
+    width: 100%;
+    padding-left: 20px;
+    border: 1px solid #c9c9c9;
+    outline: none;
+    color: #272727;
+    font-size: 20px;
+}
+.offert-fields textarea{
+    height: 150px;
+    width: 100%;
+    padding-left: 20px;
+    border: 1px solid #c9c9c9;
+    outline: none;
+    color: #5c5c5c;
+    font-size: 18px;
+}
+.offert-container button{
+    width: 580px;
+    height: 72px;
+    color: rgb(255, 255, 255);
+    background: green;
+    margin-top: 30px;
+    margin-left: 15px;
+    border: none;
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+}
+@media(max-width:1280px){
+    .offert{
+        padding-top: 50px;
+    }
+    .offert-container{
+        width: auto;
+        max-width: 500px;
+        max-height: 500px;
+    }
+    .offert-container h1{
+        margin: 10px 0px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .offert-fields{
+        gap:20px;
+        margin-top: 20px;
+    }
+    .offert-fields input{
+        height: 65px;
+        width: 90%;
+    }
+    .offert-container button{
+        width: 100%;
+        margin-left: 0px;
+    }
+    .offert-fields textarea{
+        height: 100px;
+        width: 90%;
+        padding-left: 20px;
+    }
+}
+@media(max-width:800px){
+    .offert-container{
+        padding: 20px 30px;
+    }
+}
